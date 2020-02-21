@@ -1,0 +1,7 @@
+service camsys_service /vendor/bin/hw/vendor.meitu.hardware.camsys@1.0-service
+    class hal
+    user cameraserver
+    group system camera input
+    ioprio rt 4
+    capabilities SYS_NICE
+    writepid /dev/cpuset/camera-daemon/tasks /dev/stune/foreground/tasks

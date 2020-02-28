@@ -1977,7 +1977,6 @@ PRODUCT_COPY_FILES += \
     vendor/meitu/vela/proprietary/vendor/etc/camera_material/selfiepano/9.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera_material/selfiepano/9.png \
     vendor/meitu/vela/proprietary/vendor/etc/camera_material/selfiepano/ic_left.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera_material/selfiepano/ic_left.png \
     vendor/meitu/vela/proprietary/vendor/etc/camera_material/selfiepano/ic_right.png:$(TARGET_COPY_OUT_VENDOR)/etc/camera_material/selfiepano/ic_right.png \
-    vendor/meitu/vela/proprietary/vendor/etc/device_features/vela.xml:$(TARGET_COPY_OUT_VENDOR)/etc/device_features/vela.xml \
     vendor/meitu/vela/proprietary/vendor/etc/dsi_ss_ea8076_fhd_cmd_display_f3m_mi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dsi_ss_ea8076_fhd_cmd_display_f3m_mi.xml \
     vendor/meitu/vela/proprietary/vendor/etc/init/vendor.meitu.hardware.camsys@1.0-service.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.meitu.hardware.camsys@1.0-service.rc \
     vendor/meitu/vela/proprietary/vendor/firmware/wlan/qca_cld/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_VENDOR)/firmware/wlan/qca_cld/WCNSS_qcom_cfg.ini \
